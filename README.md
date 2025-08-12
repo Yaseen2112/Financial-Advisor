@@ -13,8 +13,8 @@ It uses **Spring Boot**, **Spring Data JPA**, **MySQL**, and **Thymeleaf**.
 ## 📦 How to Set Up
 
 1. **Clone this repository**
-git clone https://github.com/Yaseen2112/FinanceAdvisor.git
-cd FinanceAdvisor
+git clone https://github.com/Yaseen2112/FinancialAdvisor.git
+cd FinancialAdvisor
 
 2. **Database Setup**
 - Create a MySQL database:
@@ -48,3 +48,4 @@ Feel free to fork the repo and submit pull requests.
 
 ## 📄 License
 This project is licensed under the MIT License.
+
